@@ -131,22 +131,22 @@
     "NotoSans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
     "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
   },
-    "background": {
+  "background": {
     "alpha": 5,
-    "url": "https://raw.githubusercontent.com/N-bi/smth.killme/refs/heads/main/dark-anime-forest-sunset_738906-315.jpg"
-    },
+    "url": "https://raw.githubusercontent.com/N-bi/smth.killme/refs/heads/main/e5f0cd532e63693835d49278af5b8f22.jpg"
+},
     "plus": {
         "version": 0,
         "iconpack": "rosiecord-plumpy",
-        "mentionLineColor": "#6B8E23",
+        "mentionLineColor": "#5025fc",
         "icons": {
-            "ic_new_pins": "#A0522D",
-            "StatusStreaming": "#2E8B57",
-            "StatusMobileOnline": "#3CB371",
-            "StatusIdle": "#8B4513",
-            "StatusDND": "#A0522D",
-            "StatusOffline": "#696969",
-            "StatusOnline": "#3CB371"
+            "ic_new_pins": "#634fff",
+            "StatusStreaming": "#6052ff",
+            "StatusMobileOnline": "#5aeda1",
+            "StatusIdle": "#f6c177",
+            "StatusDND": "#eb6f92",
+            "StatusOffline": "#6e6a86",
+            "StatusOnline": "#5aeda1"
         }
     },
     "spec": 2
