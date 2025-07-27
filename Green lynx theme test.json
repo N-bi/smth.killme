@@ -1,6 +1,6 @@
 {
-    "name": "Aetherion 2 - Green Edition",
-    "description": "A Comfy Dark Green Theme",
+    "name": "Aetherion 2 - Green & Brown Edition",
+    "description": "A Comfy Green and Brown Theme",
     "authors": [
         {
             "name": "Lynx_StxrTouchVT",
@@ -9,104 +9,104 @@
     ],
     "semanticColors": {
         "ANDROID_RIPPLE": [
-            "#538a43"
+            "#6B8E23"
         ],
         "BACKGROUND_ACCENT": [
-            "#50eb71"
+            "#8B4513"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#022808"
+            "#228B22"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#022808"
+            "#228B22"
         ],
         "BACKGROUND_SECONDARY": [
-            "#022808"
+            "#228B22"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#022808"
+            "#228B22"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#022808"
+            "#228B22"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#022808"
+            "#228B22"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#538a43"
+            "#6B8E23"
         ],
         "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-            "#123F15"
+            "#8B4513"
         ],
         "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
-            "#183019"
+            "#A0522D"
         ],
         "REDESIGN_INPUT_CONTROL_SELECTED": [
-            "#09c459"
+            "#2E8B57"
         ],
         "BG_BASE_TERTIARY": [
-            "#022808"
+            "#228B22"
         ],
         "BACKGROUND_FLOATING": [
-            "#022808"
+            "#228B22"
         ],
         "BG_MOD_STRONG": [
-            "#022808"
+            "#228B22"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#97F69B"
+            "#8FBC8F"
         ],
         "BG_BACKDROP": [
-            "#01010473"
+            "#2F4F4F73"
         ]
     },
     "rawColors": {
-        "PRIMARY_600": "#022808",
-        "PRIMARY_630": "#111b12",
-        "PRIMARY_645": "#022808",
-        "PRIMARY_660": "#022808",
-        "PRIMARY_700": "#022808",
-        "PRIMARY_800": "#4fff63",
-        "GREEN_360": "#17EEA6",
-        "BRAND_100": "#f2fef5",
-        "BRAND_130": "#d7fde1",
-        "BRAND_160": "#b2fac5",
-        "BRAND_200": "#a1f9b8",
-        "BRAND_230": "#9bf9b3",
-        "BRAND_260": "#97f9b1",
-        "BRAND_300": "#90f8ac",
-        "BRAND_330": "#8df8a9",
-        "BRAND_345": "#8af8a7",
-        "BRAND_360": "#86f8a4",
-        "BRAND_400": "#4fff63",
-        "BRAND_430": "#80f79f",
-        "BRAND_460": "#4fff63",
-        "BRAND_500": "#08C559",
-        "BRAND_530": "#6bf68f",
-        "BRAND_560": "#4ef479",
-        "BRAND_600": "#29d857",
-        "BLUE_345": "#00d264",
-        "RED_400": "#32ed5a",
-        "RED_560": "#50eb71",
-        "BRAND_660": "#347d2d",
-        "BRAND_700": "#286123",
-        "BRAND_730": "#265b21",
-        "BRAND_760": "#23531e",
-        "BRAND_800": "#1e491a",
-        "BRAND_830": "#173814",
-        "BRAND_860": "#0f240d",
-        "BRAND_900": "#050c04",
-        "PLUM_1": "#4fff63",
-        "PLUM_10": "#4fff63",
-        "PLUM_16": "#4fff63",
-        "PLUM_17": "#022808",
-        "PLUM_18": "#022808",
-        "PLUM_19": "#1c5224",
-        "PLUM_20": "#022808",
-        "PLUM_22": "#022808",
-        "PLUM_24": "#286123",
-        "TEXT_LINK": "#93d5d7",
-        "TEXT_NORMAL": "#93d5d7"
+        "PRIMARY_600": "#228B22",
+        "PRIMARY_630": "#556B2F",
+        "PRIMARY_645": "#228B22",
+        "PRIMARY_660": "#228B22",
+        "PRIMARY_700": "#228B22",
+        "PRIMARY_800": "#A0522D",
+        "GREEN_360": "#3CB371",
+        "BRAND_100": "#F5DEB3",
+        "BRAND_130": "#DEB887",
+        "BRAND_160": "#D2B48C",
+        "BRAND_200": "#CD853F",
+        "BRAND_230": "#A0522D",
+        "BRAND_260": "#8B4513",
+        "BRAND_300": "#696969",
+        "BRAND_330": "#556B2F",
+        "BRAND_345": "#2F4F4F",
+        "BRAND_360": "#2E8B57",
+        "BRAND_400": "#A0522D",
+        "BRAND_430": "#7CFC00",
+        "BRAND_460": "#A0522D",
+        "BRAND_500": "#2E8B57",
+        "BRAND_530": "#6B8E23",
+        "BRAND_560": "#6B8E23",
+        "BRAND_600": "#8B4513",
+        "BLUE_345": "#228B22",
+        "RED_400": "#8B4513",
+        "RED_560": "#A0522D",
+        "BRAND_660": "#556B2F",
+        "BRAND_700": "#2F4F4F",
+        "BRAND_730": "#228B22",
+        "BRAND_760": "#2E8B57",
+        "BRAND_800": "#3CB371",
+        "BRAND_830": "#6B8E23",
+        "BRAND_860": "#8B4513",
+        "BRAND_900": "#A0522D",
+        "PLUM_1": "#A0522D",
+        "PLUM_10": "#A0522D",
+        "PLUM_16": "#A0522D",
+        "PLUM_17": "#228B22",
+        "PLUM_18": "#228B22",
+        "PLUM_19": "#556B2F",
+        "PLUM_20": "#228B22",
+        "PLUM_22": "#228B22",
+        "PLUM_24": "#2F4F4F",
+        "TEXT_LINK": "#8FBC8F",
+        "TEXT_NORMAL": "#F5DEB3"
     },
       "fonts": {
     "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
@@ -131,15 +131,15 @@
     "plus": {
         "version": 0,
         "iconpack": "rosiecord-plumpy",
-        "mentionLineColor": "#25fc50",
+        "mentionLineColor": "#6B8E23",
         "icons": {
-            "ic_new_pins": "#4fff63",
-            "StatusStreaming": "#52ff60",
-            "StatusMobileOnline": "#5aeda1",
-            "StatusIdle": "#f6c177",
-            "StatusDND": "#eb6f92",
-            "StatusOffline": "#6e6a86",
-            "StatusOnline": "#5aeda1"
+            "ic_new_pins": "#A0522D",
+            "StatusStreaming": "#2E8B57",
+            "StatusMobileOnline": "#3CB371",
+            "StatusIdle": "#8B4513",
+            "StatusDND": "#A0522D",
+            "StatusOffline": "#696969",
+            "StatusOnline": "#3CB371"
         }
     },
     "spec": 2
