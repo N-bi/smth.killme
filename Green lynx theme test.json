@@ -58,6 +58,9 @@
         ],
         "BG_BACKDROP": [
             "#2F4F4F73"
+        ],
+        "CHAT_INPUT_CONTAINER_BACKGROUND": [
+            "#8B4513"
         ]
     },
     "rawColors": {
