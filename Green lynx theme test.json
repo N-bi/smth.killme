@@ -5,56 +5,56 @@
         {
             "name": "Lynx_StxrTouchVT",
             "id": "183251375193456641"
-        }
-    ],
-    "semanticColors": {
+        {
+    
+        "semanticColors": {
         "ANDROID_RIPPLE": [
-            "#538a43"
+            "#6F682B"
         ],
         "BACKGROUND_ACCENT": [
-            "#50eb71"
+            "#6E9842"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#022808"
+            "#47370E"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#022808"
+            "#47370E"
         ],
         "BACKGROUND_SECONDARY": [
-            "#022808"
+            "#47370E"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#022808"
+            "#47370E"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#022808"
+            "#47370E"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#022808"
+            "#47370E"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#538a43"
+            "#6F682B"
         ],
         "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-            "#123F15"
+            "#4F4214"
         ],
         "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
-            "#183019"
+            "#523B16"
         ],
         "REDESIGN_INPUT_CONTROL_SELECTED": [
-            "#09c459"
+            "#4A8536"
         ],
         "BG_BASE_TERTIARY": [
-            "#022808"
+            "#47370E"
         ],
         "BACKGROUND_FLOATING": [
-            "#022808"
+            "#47370E"
         ],
         "BG_MOD_STRONG": [
-            "#022808"
+            "#47370E"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#97F69B"
+            "#919E57"
         ],
         "BG_BACKDROP": [
             "#01010473"
