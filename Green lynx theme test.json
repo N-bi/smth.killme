@@ -105,8 +105,8 @@
         "PLUM_20": "#0A1A0A",
         "PLUM_22": "#0A1A0A",
         "PLUM_24": "#0A1A0A",
-        "TEXT_LINK": "#69F0AE",
-        "TEXT_NORMAL": "#69F0AE"
+        "TEXT_LINK": "#0a5c34",
+        "TEXT_NORMAL": "#0a5c34"
     },
       "fonts": {
     "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
