@@ -24,7 +24,7 @@
             "#A5D6A7"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            ""
+            "#99ffcc"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#1B5E20"
@@ -134,7 +134,7 @@
         "iconpack": "rosiecord-plumpy",
         "mentionLineColor": "#00cc00",
         "icons": {
-            "ic_new_pins": "#634fff",
+            "ic_new_pins": "#99ffcc",
             "StatusStreaming": "#6052ff",
             "StatusMobileOnline": "#5aeda1",
             "StatusIdle": "#f6c177",
