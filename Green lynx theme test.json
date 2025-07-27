@@ -1,6 +1,6 @@
 {
-    "name": "Aetherion 2 - Green & Brown Edition",
-    "description": "A Comfy Green and Brown Theme",
+    "name": "Aetherion 2 - Dark Green",
+    "description": "A Comfy Dark Green Theme",
     "authors": [
         {
             "name": "Lynx_StxrTouchVT",
@@ -9,107 +9,104 @@
     ],
     "semanticColors": {
         "ANDROID_RIPPLE": [
-            "#6B8E23"
+            "#3A5E3A"
         ],
         "BACKGROUND_ACCENT": [
-            "#8B4513"
+            "#4CAF50"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#013220"
+            "#0A1A0A"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#013220"
+            "#0A1A0A"
         ],
         "BACKGROUND_SECONDARY": [
-            "#013220"
+            "#0A1A0A"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#013220"
+            "#0A1A0A"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#013220"
+            "#0A1A0A"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#013220"
+            "#0A1A0A"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#6B8E23"
+            "#3A5E3A"
         ],
         "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-            "#8B4513"
+            "#1A3A1A"
         ],
         "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
-            "#A0522D"
+            "#2A4A2A"
         ],
         "REDESIGN_INPUT_CONTROL_SELECTED": [
-            "#013220"
+            "#4CAF50"
         ],
         "BG_BASE_TERTIARY": [
-            "#013220"
+            "#0A1A0A"
         ],
         "BACKGROUND_FLOATING": [
-            "#013220"
+            "#0A1A0A"
         ],
         "BG_MOD_STRONG": [
-            "#013220"
+            "#0A1A0A"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#8FBC8F"
+            "#7CB342"
         ],
         "BG_BACKDROP": [
-            "#2F4F4F73"
-        ],
-        "CHAT_INPUT_CONTAINER_BACKGROUND": [
-            "#8B4513"
+            "#05100573"
         ]
     },
     "rawColors": {
-        "PRIMARY_600": "#013220",
-        "PRIMARY_630": "#556B2F",
-        "PRIMARY_645": "#013220",
-        "PRIMARY_660": "#013220",
-        "PRIMARY_700": "#013220",
-        "PRIMARY_800": "#A0522D",
-        "GREEN_360": "#3CB371",
-        "BRAND_100": "#F5DEB3",
-        "BRAND_130": "#DEB887",
-        "BRAND_160": "#D2B48C",
-        "BRAND_200": "#CD853F",
-        "BRAND_230": "#A0522D",
-        "BRAND_260": "#8B4513",
-        "BRAND_300": "#696969",
-        "BRAND_330": "#556B2F",
-        "BRAND_345": "#2F4F4F",
-        "BRAND_360": "#013220",
-        "BRAND_400": "#A0522D",
-        "BRAND_430": "#7CFC00",
-        "BRAND_460": "#A0522D",
-        "BRAND_500": "#013220",
-        "BRAND_530": "#6B8E23",
-        "BRAND_560": "#6B8E23",
-        "BRAND_600": "#8B4513",
-        "BLUE_345": "#013220",
-        "RED_400": "#8B4513",
-        "RED_560": "#A0522D",
-        "BRAND_660": "#556B2F",
-        "BRAND_700": "#2F4F4F",
-        "BRAND_730": "#013220",
-        "BRAND_760": "#013220",
-        "BRAND_800": "#3CB371",
-        "BRAND_830": "#6B8E23",
-        "BRAND_860": "#8B4513",
-        "BRAND_900": "#A0522D",
-        "PLUM_1": "#A0522D",
-        "PLUM_10": "#A0522D",
-        "PLUM_16": "#A0522D",
-        "PLUM_17": "#013220",
-        "PLUM_18": "#013220",
-        "PLUM_19": "#556B2F",
-        "PLUM_20": "#013220",
-        "PLUM_22": "#013220",
-        "PLUM_24": "#2F4F4F",
-        "TEXT_LINK": "#8FBC8F",
-        "TEXT_NORMAL": "#F5DEB3"
+        "PRIMARY_600": "#0A1A0A",
+        "PRIMARY_630": "#1A2A1A",
+        "PRIMARY_645": "#0A1A0A",
+        "PRIMARY_660": "#0A1A0A",
+        "PRIMARY_700": "#0A1A0A",
+        "PRIMARY_800": "#4CAF50",
+        "GREEN_360": "#2E7D32",
+        "BRAND_100": "#E8F5E9",
+        "BRAND_130": "#C8E6C9",
+        "BRAND_160": "#A5D6A7",
+        "BRAND_200": "#81C784",
+        "BRAND_230": "#66BB6A",
+        "BRAND_260": "#4CAF50",
+        "BRAND_300": "#43A047",
+        "BRAND_330": "#388E3C",
+        "BRAND_345": "#2E7D32",
+        "BRAND_360": "#1B5E20",
+        "BRAND_400": "#1B5E20",
+        "BRAND_430": "#144A17",
+        "BRAND_460": "#0F3D11",
+        "BRAND_500": "#0A2D0D",
+        "BRAND_530": "#0A2A0D",
+        "BRAND_560": "#071F09",
+        "BRAND_600": "#051506",
+        "BLUE_345": "#0D47A1",
+        "RED_400": "#C62828",
+        "RED_560": "#D32F2F",
+        "BRAND_660": "#041005",
+        "BRAND_700": "#030C04",
+        "BRAND_730": "#020A03",
+        "BRAND_760": "#010802",
+        "BRAND_800": "#000601",
+        "BRAND_830": "#000401",
+        "BRAND_860": "#000200",
+        "BRAND_900": "#000100",
+        "PLUM_1": "#4CAF50",
+        "PLUM_10": "#4CAF50",
+        "PLUM_16": "#4CAF50",
+        "PLUM_17": "#0A1A0A",
+        "PLUM_18": "#0A1A0A",
+        "PLUM_19": "#1A3A1A",
+        "PLUM_20": "#0A1A0A",
+        "PLUM_22": "#0A1A0A",
+        "PLUM_24": "#0A1A0A",
+        "TEXT_LINK": "#69F0AE",
+        "TEXT_NORMAL": "#69F0AE"
     },
       "fonts": {
     "ABCGintoNord-ExtraBold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Bold.ttf?raw=1",
@@ -133,21 +130,21 @@
   },
   "background": {
     "alpha": 5,
-    "url": "https://raw.githubusercontent.com/N-bi/smth.killme/refs/heads/main/dark-anime-forest-sunset_738906-315.jpg"
+    "url": "https://raw.githubusercontent.com/N-bi/smth.killme/refs/heads/main/e5f0cd532e63693835d49278af5b8f22.jpg"
 },
     "plus": {
         "version": 0,
         "iconpack": "rosiecord-plumpy",
-        "mentionLineColor": "#5025fc",
+        "mentionLineColor": "#388E3C",
         "icons": {
-            "ic_new_pins": "#634fff",
-            "StatusStreaming": "#6052ff",
-            "StatusMobileOnline": "#5aeda1",
-            "StatusIdle": "#f6c177",
-            "StatusDND": "#eb6f92",
-            "StatusOffline": "#6e6a86",
-            "StatusOnline": "#5aeda1"
+            "ic_new_pins": "#4CAF50",
+            "StatusStreaming": "#4CAF50",
+            "StatusMobileOnline": "#8BC34A",
+            "StatusIdle": "#D4E157",
+            "StatusDND": "#EF5350",
+            "StatusOffline": "#9E9E9E",
+            "StatusOnline": "#8BC34A"
         }
     },
     "spec": 2
-}
+    }
