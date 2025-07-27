@@ -131,6 +131,10 @@
     "NotoSans-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1",
     "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
   },
+    "background": {
+    "alpha": 5,
+    "url": "https://raw.githubusercontent.com/N-bi/smth.killme/refs/heads/main/dark-anime-forest-sunset_738906-315.jpg"
+    }
     "plus": {
         "version": 0,
         "iconpack": "rosiecord-plumpy",
