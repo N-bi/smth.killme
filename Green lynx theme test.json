@@ -9,56 +9,57 @@
     ],
     "semanticColors": {
         "ANDROID_RIPPLE": [
-            "#006600"
+            "#32CD32"
         ],
         "BACKGROUND_ACCENT": [
-            "#009933"
+            "#66BB6A"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#339933"
+            "#4CAF50"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#339933"
+            "#81C784"
         ],
         "BACKGROUND_SECONDARY": [
-            "#339933"
+            "#A5D6A7"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#080228"
+            ""
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#080228"
+            "#1B5E20"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#080228"
+            "#2E7D32"
         ],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
-            "#53438a"
+            "#388E3C"
         ],
         "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-            "#12153F"
+            "#1A431A"
         ],
         "REDESIGN_INPUT_CONTROL_ACTIVE_BG": [
-            "#191830"
+            "#216928"
         ],
         "REDESIGN_INPUT_CONTROL_SELECTED": [
-            "#5909c4"
+            "#4CAF50"
         ],
         "BG_BASE_TERTIARY": [
             "#008000"
         ],
         "BACKGROUND_FLOATING": [
-            "#080228"
+            "#0A3B0A"
         ],
         "BG_MOD_STRONG": [
-            "#080228"
+            "#0C420C"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#979BF6"
+            "#8BC34A"
         ],
         "BG_BACKDROP": [
-            "#004d00"
+            "#004D00"
         ]
+     
     },
     "rawColors": {
         "PRIMARY_600": "#080228",
